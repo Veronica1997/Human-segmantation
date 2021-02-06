@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce10d59b-5455-4550-b5f4-159b6f6e7c81" name="zky" url="http://139.186.201.199">
+        <fileTransfer host="139.186.201.199" port="22" rootFolder="/home/ubuntu/00-software/01-workspace" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
